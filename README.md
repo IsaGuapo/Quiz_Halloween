@@ -17,3 +17,4 @@ Requisitos técnicos para realizar este proyecto:
 Proyecto creado para utilización de código Javascript
 
 
+👯 Poryecto en colaboración con Christian Ciudad y Jalid Acdi
